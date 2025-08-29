@@ -21,3 +21,9 @@ This is my **first React project**, created as part of my learning journey (star
 
 
 ## 📂 Project Structure  
+react-form/
+├── src/
+│ ├── App.js # Main form component
+│ ├── App.css # Custom styles
+│ └── index.js # React entry point
+└── package.json # Dependencies
